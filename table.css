@@ -1,15 +1,19 @@
 table {
   border-collapse: collapse;
+  width: 100%;
 }
 table,
 td,
-td {
-  border: 1px solid gray;
+th {
+  border: 1px solid black;
 }
 th,
 td {
   padding: 5px;
 }
 .grey-background {
-  background-color: grey;
+  background-color: rgb(187, 185, 185);
+}
+.company {
+  width: 60%;
 }
