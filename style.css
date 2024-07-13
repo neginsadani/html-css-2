@@ -3,11 +3,11 @@ h1 {
 }
 .main-title {
   border: 1px solid black;
-  width: 30px;
+  width: 30%;
   height: 50px;
 }
 .yellow-title {
-  color: yellow;
+  color: yellowgreen;
   font-size: 1rem;
 }
 #green-title {
