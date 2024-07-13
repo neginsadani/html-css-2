@@ -1,0 +1,15 @@
+table {
+  border-collapse: collapse;
+}
+table,
+td,
+td {
+  border: 1px solid gray;
+}
+th,
+td {
+  padding: 5px;
+}
+.gray-background {
+  background-color: grey;
+}
